@@ -28,7 +28,7 @@
         <tr>
       	  <!-- 第一个图片 -->
       	  <td align="center">
-            <img height='200' src="https://github-readme-stats.vercel.app/api?username=handi404&show_icons=true&theme=tokyonight" />
+            <img height='160' src="https://github-readme-stats.vercel.app/api?username=handi404&show_icons=true&theme=tokyonight" />
           </td>
           <!-- 第二个图片 -->
           <td align="center">
@@ -42,7 +42,7 @@
           </td>
         </tr>
       </table>
-    </div>
+</div>
 
 
 
